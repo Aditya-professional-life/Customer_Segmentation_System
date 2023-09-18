@@ -1,1 +1,1 @@
-# Customer_Segmentation_System
+: Customer segmentation involves grouping customers based on their characteristics or behavior. It's a commonly used business analysis technique. For a beginner, this project can be manageable, especially if you have basic data analysis skills. You can start with simple clustering algorithms like K-means and then explore more advanced techniques.
